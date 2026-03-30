@@ -1,6 +1,6 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import { Box } from '@mui/material'
-import MarketTable from './features/market/MarketTable'
+import MarketTable from './features/market/MarketTable.tsx'
 import Portfolio from './pages/Portfolio'
 import Watchlist from './pages/Watchlist'
 import Dashboard from './pages/Dashboard'

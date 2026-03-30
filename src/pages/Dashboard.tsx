@@ -2,7 +2,7 @@ import { useSelector } from 'react-redux'
 import type { RootState } from '../app/store'
 import {
   Box, Typography, Paper, Avatar,
-  Grid, Chip, CircularProgress
+  Chip, CircularProgress
 } from '@mui/material'
 import {
   LineChart, Line, XAxis, YAxis,
